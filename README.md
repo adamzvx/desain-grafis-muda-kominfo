@@ -50,3 +50,8 @@ Objek :
 
 Subjek :
 
+
+
+## Soal
+teori : [soal teori](https://docs.google.com/forms/d/e/1FAIpQLSeyRW3mVmFf9eHSuuOwDPTpSui7UVhfpSAwBzHRW8svy8rY0w/viewscore?viewscore=AE0zAgAZaBSj0j3TUFcU_uT2DXsjNu0hojibHfJy9p3o1z3QMHSJRwfzFHSACs_L4eRHiEg)
+praktek : [soal praktek](https://docs.google.com/forms/d/e/1FAIpQLSdgNMCkMjrErMnj-iV32LlDWZSrWKH2lpP7lhsxnLUmJ4jVkQ/viewform)
